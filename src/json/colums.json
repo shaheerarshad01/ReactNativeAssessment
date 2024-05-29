@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Name",
+    "is_sortable": true
+  },
+  {
+    "id": 2,
+    "name": "Rank",
+    "is_sortable": false
+  },
+
+  {
+    "id": 3,
+    "name": "Number of Bananas",
+    "is_sortable": false
+  }
+]
